@@ -1,0 +1,1 @@
+import t from"./header.d03114a9.js";import{_ as r,r as a,o as s,c as n,b as p,f as c,d}from"./entry.29f61cb5.js";import"./nuxt-link.1f9b1b32.js";const l={components:{AppHeader:t}};function _(e,f,m,u,i,$){const o=a("AppHeader");return s(),n("div",null,[p(o),c(e.$slots,"default"),d(" layout ")])}const k=r(l,[["render",_]]);export{k as default};
